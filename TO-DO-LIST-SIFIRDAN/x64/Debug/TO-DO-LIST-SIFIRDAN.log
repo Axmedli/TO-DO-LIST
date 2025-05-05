@@ -1,0 +1,4 @@
+﻿  TO-DO-LIST-SIFIRDAN.cpp
+C:\Users\Murad\Desktop\c++\TO-DO-LIST-SIFIRDAN\TO-DO-LIST-SIFIRDAN\TO-DO-LIST-SIFIRDAN.cpp(1007,48): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Murad\Desktop\c++\TO-DO-LIST-SIFIRDAN\TO-DO-LIST-SIFIRDAN\TO-DO-LIST-SIFIRDAN.cpp(1146,54): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  TO-DO-LIST-SIFIRDAN.vcxproj -> C:\Users\Murad\Desktop\c++\TO-DO-LIST-SIFIRDAN\x64\Debug\TO-DO-LIST-SIFIRDAN.exe
